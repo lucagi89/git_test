@@ -1,2 +1,4 @@
 Hello, how are you?
 A added phrase
+Another added phrase,
+Because I want to practice git
